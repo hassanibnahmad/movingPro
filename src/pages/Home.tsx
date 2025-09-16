@@ -74,7 +74,7 @@ const Home = () => {
       className="overflow-hidden"
     >
       {/* Hero Section */}
-      <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-primary-900 via-primary-600 to-primary-500">
+      <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-primary-900 via-primary-600 to-primary-500 mt-6">
         <div 
           className="absolute inset-0 opacity-20"
           style={{
